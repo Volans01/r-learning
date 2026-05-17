@@ -21,3 +21,10 @@ This repository contains my practice work in R, including:
 - R
 - ggplot2
 - dplyr
+
+## Environment
+
+- Operating System: Ubuntu (running inside Termux on Android)
+- R Version: 4.5.1 (2025-06-13)
+- Editor: R / RStudio (or terminal-based R)
+- Device: Android phone
